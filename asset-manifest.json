@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/glaxy/static/css/main.22874abe.css",
+    "main.js": "/glaxy/static/js/main.5e003189.js",
+    "static/media/space.mp4": "/glaxy/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/glaxy/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/glaxy/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/glaxy/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/glaxy/index.html",
+    "main.22874abe.css.map": "/glaxy/static/css/main.22874abe.css.map",
+    "main.5e003189.js.map": "/glaxy/static/js/main.5e003189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22874abe.css",
+    "static/js/main.5e003189.js"
+  ]
+}
